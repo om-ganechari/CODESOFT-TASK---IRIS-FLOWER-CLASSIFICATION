@@ -1,0 +1,26 @@
+Dataset Name: Iris Flower Dataset
+Source: Scikit-learn (originally from UCI Machine Learning Repository)
+Number of Instances: 150
+Number of Features: 4 (numeric)
+Number of Classes: 3
+
+Features (all in centimeters):
+1. Sepal length
+2. Sepal width
+3. Petal length
+4. Petal width
+
+Classes:
+- Setosa (50 samples)
+- Versicolor (50 samples)
+- Virginica (50 samples)
+
+Description:
+The Iris dataset is one of the most well-known datasets in machine learning and statistics.
+It contains measurements of 150 iris flowers from three species.
+It is widely used for testing classification algorithms.
+
+Format:
+- CSV-like structure with 150 rows and 5 columns (including target label).
+- No missing values.
+- Balanced dataset: each class has the same number of samples.
