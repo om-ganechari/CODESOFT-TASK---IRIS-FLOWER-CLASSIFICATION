@@ -1,5 +1,4 @@
-# 🌸 Iris Flower Classification – Streamlit Web App
-
+# 🌸 Iris Flower Classification 
 This project predicts the species of an iris flower (**Setosa**, **Versicolor**, or **Virginica**) based on four physical measurements:  
 - Sepal Length (cm)  
 - Sepal Width (cm)  
@@ -28,9 +27,7 @@ Edit
 ---
 
 ## 🚀 Live Demo
-- **Hugging Face Spaces:** *link will be added after deployment*
-- **Streamlit Cloud:** *link will be added after deployment*
-
+ **Streamlit Cloud:** [https://codesoft-task---iris-flower-classification-2wvwm5uvmv4towfnkui.streamlit.app/]
 ---
 
 ## 📊 Dataset Details
@@ -69,7 +66,7 @@ The Logistic Regression model achieves 96–100% accuracy depending on the train
 It was trained on scaled features for optimal performance.
 -----
 
-##📌 Usage
+## 📌 Usage
 Open the app in your browser.
 
 Adjust the sliders for sepal and petal measurements.
